@@ -34,7 +34,7 @@ input[type="number"] {
 	background-color: var(--peach);
 	padding: 1%;
 	border: 1px solid black;
-	width: 10%;
+	width: 70px;
 	margin: 1%;
 	height: 30px;
 	font-family: "Montserrat", sans-serif;
