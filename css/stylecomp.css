@@ -20,7 +20,7 @@ body {
 .btn-goback {
 	padding: 1.5%;
 	background-color: var(--light-blue);
-	border: none;
+	border: 1px solid black;
 	font-size: 110%;
 	border-radius: 20px;
 }
@@ -68,4 +68,13 @@ input[type="number"] {
 input[type="radio"] {
 	margin: 2%;
 	font-weight: 500;
+}
+
+.questions-container {
+	text-align: left;
+	margin: 3% auto;
+	max-width: 70%;
+	background-color: var(--peach);
+	border-radius: 20px;
+	padding: 1.5%;
 }

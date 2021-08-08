@@ -19,7 +19,7 @@ body {
 
 button {
 	padding: 2%;
-	width: 15%;
+	width: 125px;
 	height: 130px;
 	background-color: var(--violet);
 	color: white;
